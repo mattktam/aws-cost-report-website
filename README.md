@@ -29,4 +29,4 @@ https://d1b9nzcacdi8ql.cloudfront.net
 - [aws-cost-report](https://github.com/mattktam/aws-cost-report) — the daily email report this dashboard is based on
 
 ## Sample 
-![AWS Cost Report](sample.png)
+![AWS Cost Report](example.png)
