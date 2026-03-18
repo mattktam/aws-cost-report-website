@@ -16,7 +16,7 @@ Interactive AWS cost dashboard built with vanilla JS, Chart.js, and AWS services
 - Data: AWS Cost Explorer API
 
 ## Live demo
-https://d1b9nzcacdi8ql.cloudfront.net
+ https://d23ggt7faj847b.cloudfront.net
 
 ## Setup
 1. Deploy `api/lambda_function.py` as a Lambda function
